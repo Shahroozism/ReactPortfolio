@@ -1,4 +1,4 @@
-A personal portfolio I am developing using React, React Spring and React Bootstrap. This is a work in progress :)  
+A personal portfolio I am developing using React, React Spring and React Bootstrap. Structure of the site is looking good but I am still working out some bugs. It is a work in progress :) 
 
 
 
