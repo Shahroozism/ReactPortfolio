@@ -1,3 +1,7 @@
+A personal portfolio I am developing using React, React Spring and React Bootstrap. This is a work in progress :)  
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
